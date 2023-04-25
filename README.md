@@ -26,8 +26,8 @@ End the Program
     import math
     d1=[4,2]
     d2=[10,6]
-    dist=math.sqrt(((d2[0]-d1[0])**2)+(d2[1]-d1[1])**2)
-    print("%.2f"%dist)  
+    dis=math.sqrt(((d2[0]-d1[0])**2)+(d2[1]-d1[1])**2)
+    print("%.2f"%dis)  
 
 
 ### OUTPUT:
